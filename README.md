@@ -19,4 +19,7 @@ It's an executable, so nothing to think too much.
 
 Commands:
 
-$ git clone 
+$ git clone https://github.com/omererbilgin/Studying-Support
+$ cd Studying-Support
+$ chmod +x Studying-Support
+$ ./Studying-Support
