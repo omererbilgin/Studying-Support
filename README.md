@@ -9,13 +9,13 @@ Studying Support isn't really a huge gamebreaker for the user's exams. I strongl
 
 To come to the system, as I mentioned in the introduction section, the program is platform specific and works on terminal. So it is not gui and impossible for windows users to run. Obviously, these are minus points for the program. 
 
-The program is written in C. Even though, the code perpetually calls the system() function it works pretty fast and smooth. That's pretty positive. I also really like how the program is much more complicated than it looks. With that, it can be more complicated and it can get developed with new ideas. That's also positive points to me. Honestly, I don't think someone will try to improve a command line app but maybe when the gui comes out things will change.  
+The program is written in C. Even though, the code perpetually calls the system() function, it works pretty fast and smooth. That's pretty positive. I also really like how the program is much more complicated than it looks. With that, it can be more complicated and it can get developed with new ideas. Those are also positive points to me. Honestly, I don't think someone will try to improve a command line app but maybe when the gui comes out things will change.  
 
-Finally, the game is tested on Ubuntu 20.04 and Linux Mint
+Finally, Studying Support is tested on Ubuntu 20.04 and Linux Mint.
 
 # Installing
 
-It's an executable, so nothing to think too much.
+It's executable, so nothing to worry about.
 
 Commands:
 
