@@ -17,9 +17,12 @@ Finally, Studying Support is tested on Ubuntu 20.04 and Linux Mint.
 
 It's executable, so nothing to worry about.
 
-Commands:
+Intructions:
 
+$ sudo apt install git
+$ sudo apt install build-essential
 $ git clone https://github.com/omererbilgin/Studying-Support
 $ cd Studying-Support
+$ gcc Studying-Support.c -o Studying-Support
 $ chmod +x Studying-Support
 $ ./Studying-Support
